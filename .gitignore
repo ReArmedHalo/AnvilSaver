@@ -1,3 +1,9 @@
+bin
+.metadata
+.classpath
+.project
+.settings
+.DS_Store
 *.class
 
 # Package Files #
